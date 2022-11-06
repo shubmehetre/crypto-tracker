@@ -4,8 +4,7 @@
 
 ## Components in this Project:
 
-- HTML, CSS, JS
-- Bootstrap
+- HTML, CSS, JS, Bootstrap
 
 -----------x----------------x--------------------x------------------
 
